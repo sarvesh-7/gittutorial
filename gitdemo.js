@@ -1,1 +1,1 @@
-console.log('Not learning git anymor');
+console.log('Not learning git anymore');
